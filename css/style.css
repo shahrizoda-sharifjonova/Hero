@@ -60,10 +60,9 @@ body{
 .span{
     font-weight: 800;
     font-size: 14px;
-    line-height: 71.5%;
     color: #FFE074;
     display: block;
-    margin-bottom: 14px;
+    margin-bottom: 15px;
 }
 .intro__title{
     font-weight: 800;
