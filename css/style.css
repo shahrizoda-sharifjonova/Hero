@@ -87,6 +87,9 @@ body{
     padding-bottom: 106px;
     padding-top: 164px;
 }
+.item__img{
+    border-radius: 0px 10px 10px 0;
+}
 .top__body{
     display: flex;
     justify-content: space-between;
